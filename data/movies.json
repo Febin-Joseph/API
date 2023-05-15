@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name":"spiderman",
+        "releaseYear":1999,
+        "duration":90
+    },
+    {
+        "id":2,
+        "name":"superman",
+        "releaseYear":2016,
+        "duration":80
+    },
+    {
+        "id":3,
+        "name":"batman",
+        "releaseYear":2003,
+        "duration":60
+    }
+]
